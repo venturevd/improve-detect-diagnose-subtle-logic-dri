@@ -1,4 +1,4 @@
-# Step 1: Improve: Detect/diagnose subtle logic drift in ag — Add proper JSON validation and error mes
+# Step 1: Improve: Detect/diagnose subtle logic drift in ag — Remove duplicate code in main.py
 
 **File to create:** `main.py`
 **Estimated size:** ~80 lines
@@ -7,7 +7,7 @@
 
 QA tester suggested an improvement for 'Detect/diagnose subtle logic drift in agent workflows':
 
-**Suggestion:** Add proper JSON validation and error messages
+**Suggestion:** Remove duplicate code in main.py
 
 **Artifact:** https://github.com/venturevd/detect-diagnose-subtle-logic-drift-in-ag
 
